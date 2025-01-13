@@ -1,4 +1,4 @@
-![](https://github.com/Caden0002/DESIGNMeshGradient/blob/main/meshgradient.gif)
+![](https://github.com/Caden0002/DESIGNPaypal/blob/main/DESIGNPaypal.gif)
 #### How to Install and Run the Project ####
 1. Open Terminal at the project's CD<br />
 2. rm -rf node_modules && rm package-lock.json && npm install<br />

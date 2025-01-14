@@ -8,7 +8,7 @@
 # DESIGNPaypal
 This project shows how to set up PayPal integration on the frontend of a React Application<br />
 
-Learn more about mesh gradients here:<br />
+Learn more about Paypal Integration here:<br />
 https://medium.com/@caden0002/integrating-paypal-with-react-frontend-e6aa55fc777d
 
 ## Tech Stack ##
